@@ -1,0 +1,62 @@
+.genres-list {
+  list-style-type: none;
+  display: flex;
+  gap: 1vh;
+  padding: 0;
+}
+
+.genre-popularity-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.movies-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5vh;
+  flex-wrap: wrap;
+}
+
+.page-header {
+  font-size: 6vh;
+  color: #33448c;
+  margin-bottom: 0;
+}
+
+.movie-title {
+  font-size: 3vh;
+  color: #454e82;
+  font-weight: 600;
+}
+
+.paragraph-title {
+  font-weight: 600;
+}
+
+.movie-li {
+  margin-bottom: 5vh;
+}
+
+.languale-release-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.release-date {
+  font-weight: 700;
+}
+
+.popularity-text {
+  color: rgb(156, 152, 152);
+  font-weight: 200;
+}
+
+.popularity {
+  font-weight: 700;
+}
+
+.release-date-text {
+  color: rgb(156, 152, 152);
+  font-weight: 200;
+}
