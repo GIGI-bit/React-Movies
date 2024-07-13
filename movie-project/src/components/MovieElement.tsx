@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Movie } from "./HomePage";
 import axios from "axios";
+import React from "react";
 
 export type Genre = {
   id: number;
